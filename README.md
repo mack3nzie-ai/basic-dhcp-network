@@ -16,7 +16,7 @@ Proyek ini mendemonstrasikan pembangunan jaringan lokal sederhana menggunakan Ci
 ## Topologi Jaringan
 Berikut adalah diagram topologi jaringan yang dibangun dalam simulasi:
 
-![Topologi Jaringan DHCP Sederhana](projects\basic-dhcp-network\screenshots\topology-diagram.png)
+![Topologi Jaringan DHCP Sederhana](screenshots/topology-diagram.png)
 
 ### Alokasi IP Address
 | Perangkat | Interface   | IP Address       | Subnet Mask       | Gateway        | Catatan                     |
